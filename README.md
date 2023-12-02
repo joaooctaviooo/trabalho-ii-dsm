@@ -26,7 +26,7 @@ ao fazer login com esse usuário. Além disso, é importante ressaltar que todos
 ## Funcionalidades:
 
 - Sistema de autenticação com usuário fixo
-- Listagem de tarefas por dada
+- Listagem de tarefas por data
 - Cadastro de tarefa
 - Atualização de tarefa
 - Remoção de tarefa
