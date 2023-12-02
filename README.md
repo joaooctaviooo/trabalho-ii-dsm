@@ -41,3 +41,5 @@ ao fazer login com esse usuário. Além disso, é importante ressaltar que todos
 - React Native Vector Icons
 - Yup
 - React Navigation
+- Date Fns
+- React Toast Message
